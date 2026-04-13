@@ -21,4 +21,4 @@ Nesta aula, explorei o controle de velocidade de um motor de corrente contínua 
 ![Funcionamento do Motor](./aula07.gif)
 
 ---
-*Projeto desenvolvido no Tinkercad.*
+*Projeto desenvolvido no Tinkercad para fins didáticos.*
