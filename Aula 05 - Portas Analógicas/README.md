@@ -19,4 +19,4 @@ Nesta aula, desenvolvi um sistema de monitoramento de temperatura que utiliza ci
 ![Funcionamento do Termômetro](./aula05.gif)
 
 ---
-*Projeto desenvolvido no Tinkercad integrando hardware e lógica condicional.*
+*Projeto desenvolvido no Tinkercad para fins didáticos.*
