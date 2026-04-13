@@ -20,4 +20,4 @@ Nesta aula, avancei para o uso de **entradas digitais**, criando um sistema de s
 ![Funcionamento do Semáforo Inteligente](./aula04.gif)
 
 ---
-*Projeto desenvolvido no Tinkercad integrando hardware e lógica condicional.*
+*Projeto desenvolvido no Tinkercad para fins didáticos.*
