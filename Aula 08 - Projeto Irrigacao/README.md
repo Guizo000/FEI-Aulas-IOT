@@ -18,7 +18,7 @@ O firmware consolidado executa as seguintes ações baseadas nos requisitos do p
 * **Segurança:** Caso a temperatura ultrapasse 45°C, um alarme sonoro (Buzzer) é ativado continuamente.
 
 ### 🎞️ Demonstração
-![Funcionamento da Estufa](./projeto_estufa.gif)
+![Funcionamento da Estufa](./aula08.gif)
 
 ---
 *Projeto desenvolvido no Tinkercad para fins didáticos.*
