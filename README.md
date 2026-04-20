@@ -1,6 +1,6 @@
-# 🚀 Jornada Arduino: De Circuitos Básicos a Controle de Potência
+# 🚀 Jornada Arduino
 
-Este repositório é um registro da minha evolução no aprendizado de eletrônica e programação com Arduino. Cada pasta contém um projeto prático desenvolvido, simulado no Tinkercad e documentado detalhadamente.
+Este repositório é um registro da minha evolução no aprendizado de eletrônica e programação com Arduino nas aulas de IOT na FEI. Cada pasta contém um projeto prático desenvolvido, simulado no Tinkercad e documentado detalhadamente.
 
 ## 📂 Guia de Navegação
 
@@ -11,7 +11,7 @@ Este repositório é um registro da minha evolução no aprendizado de eletrôni
 | [Aula 05](<./Aula 05 - Portas Analógicas>) | **Termômetro em Barra** | Sensores Analógicos (TMP36/LDR), Precisão `float`, Mapeamento. |
 | [Aula 06](<./Aula 06 - Atuadores>) | *Em breve* | (Atuadores e Buzzer) |
 | [Aula 07](<./Aula 07 - Motores>) | **Controle de Motores** | Transistores NMOS, Sinais PWM, Alimentação Externa e Diodo Flyback. |
-| [Aula 08](<./Aula 08 - Projeto Irrigacao>) | **Monitoração e Automação de Estufa** | Junção de Todos os Conceito Anteriores. |
+| [Aula 08](<./Aula 08 - Projeto Irrigacao>) | **Monitoração e Automação de Estufa** | Junção de Todos os Conceitos Anteriores. |
 
 ---
 
